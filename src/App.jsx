@@ -148,7 +148,7 @@ function App() {
               <h1 className="text-xl font-bold mb-2  text-white">Created By YounusSyed</h1>
               <img
                 className="rounded-xl h-50 w-50"
-                src="src/assets/Younus.jpg"
+                src="/Younus.jpg"
                 alt=""
               />
               <h1 className="text-white">Linkedin:</h1>
